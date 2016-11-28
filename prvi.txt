@@ -1,7 +1,7 @@
 Naslov
 
-ovo je prica o romanu, koji je isao u sumu.
-u sumi je sreo vuka.
-i onda je crvenkapica pojela vuka.
+Ovo je prica o romanu, koji je isao u sumu.
+U sumi je sreo vuka.
+I onda je crvenkapica pojela vuka.
 
-d end.
+D end.
